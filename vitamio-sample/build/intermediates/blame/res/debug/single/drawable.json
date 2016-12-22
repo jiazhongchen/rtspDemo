@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/drawable/scrubber_control_selector_holo.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/exploded-aar/VideoPlayer/vitamio/unspecified/res/drawable/scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/drawable/mediacontroller_button.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/exploded-aar/VideoPlayer/vitamio/unspecified/res/drawable/mediacontroller_button.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/drawable/scrubber_progress_horizontal_holo_dark.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/exploded-aar/VideoPlayer/vitamio/unspecified/res/drawable/scrubber_progress_horizontal_holo_dark.xml"
+    }
+]

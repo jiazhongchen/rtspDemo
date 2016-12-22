@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/raw/libarm.so",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/raw/libarm.so"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/raw/test_cbr.mp3",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/raw/test_cbr.mp3"
+    }
+]

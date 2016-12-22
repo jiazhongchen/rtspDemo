@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/videoview.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/videoview.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_1.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/mediaplayer_1.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_2.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/mediaplayer_2.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_3.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/mediaplayer_3.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/mediacontroller.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/exploded-aar/VideoPlayer/vitamio/unspecified/res/layout/mediacontroller.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/videobuffer.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/videobuffer.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/subtitle2.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/subtitle2.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/media_metadata.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/media_metadata.xml"
+    },
+    {
+        "merged": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/build/intermediates/res/merged/debug/layout/subtitle1.xml",
+        "source": "/home/jchen/projects/android/rova/VideoPlayer/vitamio-sample/res/layout/subtitle1.xml"
+    }
+]
